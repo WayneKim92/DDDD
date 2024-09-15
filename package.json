@@ -1,0 +1,31 @@
+{
+  "name": "DDDD",
+  "version": "0.0.1",
+  "description": "4D is a architecture tool",
+  "main": "app/4d/index.ts",
+  "repository": "https://github.com/WayneKim92/DDDD.git",
+  "author": "eunchan0817@gmail.com",
+  "license": "Apache License",
+  "private": true,
+  "devDependencies": {
+    "@release-it/conventional-changelog": "^8.0.2",
+    "release-it": "^17.6.0"
+  },
+  "release-it": {
+    "git": {
+      "commitMessage": "chore: release ${version}",
+      "tagName": "v${version}"
+    },
+    "npm": {
+      "publish": true
+    },
+    "github": {
+      "release": true
+    },
+    "plugins": {
+      "@release-it/conventional-changelog": {
+        "preset": "angular"
+      }
+    }
+  }
+}
