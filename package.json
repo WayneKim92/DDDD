@@ -1,6 +1,6 @@
 {
   "name": "DDDD",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "4D is a architecture tool",
   "main": "app/4d/index.ts",
   "repository": "https://github.com/WayneKim92/DDDD.git",
