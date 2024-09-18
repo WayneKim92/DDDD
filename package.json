@@ -1,6 +1,6 @@
 {
   "name": "@wayne-kim/DDDD",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "4D is a architecture tool",
   "main": "app/4d/index.ts",
   "repository": "https://github.com/WayneKim92/DDDD.git",
