@@ -9,4 +9,4 @@ DDDD is open source and a architecture tool for software development teams.
 - [ ] Model relationship diagram
 - [ ] Maintain communication and code context.
 - [ ] Document management by version
-      
+- [ ] Code-based document synchronization
